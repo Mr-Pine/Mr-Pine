@@ -39,7 +39,7 @@
 
 <p align="center">
 <a><img src="https://github-readme-stats.vercel.app/api?username=Mr-Pine&show_icons=true&theme=github_dark&count_private=true"/></a>
-<br/>
+<br/><br/>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Pine&layout=compact&exclude_repo=Jupyter-notebooks&theme=github_dark"/></a>
 </p>
 <!--
