@@ -40,7 +40,7 @@
 <p align="center">
 <a><img src="https://github-readme-stats.vercel.app/api?username=Mr-Pine&show_icons=true&theme=github_dark&count_private=true"/></a>
 <br/>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Pine&layout=compact&exclude_repo=Jupyter-notebooks"/></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Pine&layout=compact&exclude_repo=Jupyter-notebooks&theme=github_dark"/></a>
 </p>
 <!--
 **Mr-Pine/Mr-Pine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
