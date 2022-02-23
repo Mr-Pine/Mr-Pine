@@ -15,8 +15,8 @@
 <img src="https://static.cdnlogo.com/logos/c/27/c.svg" height=60 width=60/>&emsp;&ensp;
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg" height=60 width=60/>&emsp;&ensp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height=60 width=60/>&emsp;&ensp;
-![](./rust-logo-blk.svg#gh-dark-mode-only)
-![](./rust-logo-white.svg#gh-light-mode-only)&emsp;&ensp;
+![](./rust-logo-blk.svg#gh-light-mode-only)
+![](./rust-logo-white.svg#gh-dark-mode-only)&emsp;&ensp;
 
 ## Frameworks and other tools
 <img src="jetpack compose icon_RGB.png" width=60/>&emsp;&ensp;
